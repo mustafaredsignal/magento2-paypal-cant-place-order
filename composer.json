@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "magento/module-paypal": "100.1.5"
+        "magento/module-paypal": "100.*.*"
     },
     "autoload": {
         "files": [
